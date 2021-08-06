@@ -92,7 +92,10 @@ buttons = [
     [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
     ],
-]
+    [   
+       InlineKeyboardButton(
+            text="➕️ 𝙑𝘾 𝙋𝙇𝘼𝙔𝙀𝙍 ➕️", url="https://t.me/abhinasroy"
+    ], 
 
 
 HELP_STRINGS = """
