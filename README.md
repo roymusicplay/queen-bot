@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/d3f522b439ae3730269cc.jpg">
 </p>
 
-# Amelia Group BoT
+# 𝙌𝙐𝙀𝙀𝙉 𝘽𝙊𝙏
 
 ### Telegram Group
 <p align="left">
