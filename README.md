@@ -61,7 +61,7 @@ For starters click on this button
 * [WarBotzChat](https://telegram.dog/WarBotzsupport)
 
 ## Credits, and Thanks to 
-*   [Abhishek](https://telegram.dog/xAbhisheksingh)
+*   [Abhinas](https://telegram.me/abhinasroy)
 
 
 
