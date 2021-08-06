@@ -1,5 +1,5 @@
 {
-      "name": "Amelia Robot",
+      "name": "queen bot",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "Amelia"
       ],
     
-   "logo":    "https://telegra.ph/file/329647a798cccb101aecf.jpg",
+   "logo":    "https://telegra.ph/file/d3f522b439ae3730269cc.jpg",
 
    "repository": "https://github.com/war-legend/AmeliaRoBot",
    "addons": [
