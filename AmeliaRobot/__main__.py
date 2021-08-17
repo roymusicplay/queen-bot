@@ -93,7 +93,7 @@ buttons = [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
     ],
     [   
-       InlineKeyboardButton(text="𝙑𝘾 𝙋𝙇𝘼𝙔𝙍𝙀" , url="t.me/roy_music1"),
+       InlineKeyboardButton(text="𝙑𝘾 𝙋𝙇𝘼𝙔𝙍𝙀" , url="t.me/ABHINAS_ROY52"),
     ],
     [
        InlineKeyboardButton(text="𝙈𝙔 𝙌𝙐𝙀𝙀𝙉" , url="t.me/Roy_5488_bot"),
